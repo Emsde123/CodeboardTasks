@@ -6,7 +6,6 @@ public class TasksM8 {
     public static void main(String[] args) {
 
 
-        System.out.println(isAnagram("Santa", "Sfcan"));
 
 
 
